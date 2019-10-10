@@ -9,4 +9,4 @@ author:
     - title: GitHub
       url: https://github.com/mariasaav
       icon: fab fa-github-square
-remote_theme: mmistakes/minimal-mistakes
+remote_theme: mmistakes/minimal-mistakes@4.17.0

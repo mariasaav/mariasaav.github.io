@@ -16,4 +16,5 @@ author:
 
       url: https://github.com/mariasaav
 
-      icon: fab fa-github-squaretheme: jekyll-theme-cayman
+      icon: fab fa-github-square
+      theme: jekyll-theme-cayman

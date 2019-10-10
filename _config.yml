@@ -1,5 +1,5 @@
 title: Portafolio Maria Saavedra
-description: *Bienvenidos* al repositorio de la asignatura de cuarto de Comunicación **Proyectos para la Web** donde incluiremos los productos mediáticos que creemos en el resto de asignaturas de este curso
+description: Bienvenidos al repositorio de la asignatura de cuarto de Comunicación Proyectos para la Web donde incluiremos los productos mediáticos que creemos en el resto de asignaturas de este curso
 
 author:
   name: Maria Saavedra
@@ -9,4 +9,5 @@ author:
     - title: GitHub
       url: https://github.com/mariasaav
       icon: fab fa-github-square
+
 theme: jekyll-theme-cayman

@@ -6,15 +6,29 @@ baseurl: ""
 
 author:
   name: Maria Saavedra
-  picture: 
+  avatar : "/assets/images/bio-photo.jpg" 
   email: maria.saavedra@opendeusto.es
   links:
-    - title: GitHub
-      url: https://github.com/mariasaav
-      icon: fab fa-github-square
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/"
 
 remote_theme: mmistakes/minimal-mistakes@4.17.0
 
+# A partir de aquí, configuraciones específicas del tema
+
+markdown: kramdown
+
+# Outputting
+permalink: /:categories/:title/
+paginate: 5 # amount of posts to show
+paginate_path: /page:num/
+timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+
+include:
+  - _pages
+
+# Plugins (previously gems:)
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
@@ -23,7 +37,6 @@ plugins:
   - jemoji
   - jekyll-include-cache
 
-# Defaults
 defaults:
   # _posts
   - scope:
@@ -33,6 +46,7 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
+      comments: true
       share: true
       related: true
   # _pages
@@ -42,3 +56,10 @@ defaults:
     values:
       layout: single
       author_profile: true
+
+category_archive:
+  type: liquid
+  path: /categories/
+tag_archive:
+  type: liquid
+  path: /tags/

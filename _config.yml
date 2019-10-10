@@ -1,2 +1,19 @@
-title: Welcome to my portfolio!
-theme: jekyll-theme-cayman
+title: Portafolio Maria Saavedra
+description: *Bienvenidos* al repositorio de la asignatura de cuarto de Comunicación **Proyectos para la Web** donde incluiremos los productos mediáticos que creemos en el resto de asignaturas de este curso
+
+author:
+
+  name: Maria Saavedra
+
+  picture: 
+
+  email: maria.saavedra@opendeusto.es
+
+  links:
+
+
+    - title: GitHub
+
+      url: https://github.com/mariasaav
+
+      icon: fab fa-github-squaretheme: jekyll-theme-cayman

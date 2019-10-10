@@ -46,7 +46,7 @@ Este sistema también te permitirá sincronizar tu site map con otros documentos
 
 Las páginas de tus **wareframes** deberían compartir el mismo sistema de numeración que las páginas de tu site map para proporcionar una conexión clara entre los dos documentos. Los **diseñadores visuales** pueden sincronizar páginas de diseño y elementos con páginas específicas en tu site map. Esto les permite segmentar su inventario cuando llga el momento de entregar sus diseños a los desarrolladores. Por último, en cuanto a los **documentos de garantía de calidad**, los equipos de garantía de calidad pueden redactar guiones de prueba dedicados a páginas específicas en el site map.
 
-e. **El site ma simple** Una página web básica tiene funcionalidades dinámicas limitadas y mayoritariamente una naturaleza estática. Estos deben ntener los elementos principales del vocabulario visual y mantener una apariencia y estilo profesional. Proporciona una imagen clara de la navegación, de las páginas y de las condiciones disponibles para los usuarios de la página web.
+e. **El site map simple** Una página web básica tiene funcionalidades dinámicas limitadas y mayoritariamente una naturaleza estática. Estos deben ntener los elementos principales del vocabulario visual y mantener una apariencia y estilo profesional. Proporciona una imagen clara de la navegación, de las páginas y de las condiciones disponibles para los usuarios de la página web.
 
 ## Site maps avanzados ##
 

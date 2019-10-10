@@ -9,4 +9,4 @@ author:
     - title: GitHub
       url: https://github.com/mariasaav
       icon: fab fa-github-square
-      theme: jekyll-theme-cayman
+theme: jekyll-theme-cayman

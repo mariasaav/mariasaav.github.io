@@ -46,6 +46,13 @@ Si lo que quieres es **entregar valor a tus clientes**:
 
 Mediante estas directrices podrás encontrar el **balance** entre el diseño de un PMV para aprender del mercado y entregarle valor con algo nuevo.
 
+### Creación de prototipos ##
+
+Una de las maneras más efectivas de crear los PMV es mediante un **prototipo de la experiencia**, una aproximación de la experiencia de usuario que permite simular cómo será el uso del producto o servicio. Para que la simulación sea efectiva deberá ser **cliclable**. Como hay que dedicar e lmínimo esfuerzo posible a su desarrollo, es importante que se elija bien la **herramienta** para crearlo. Hay que establecer claramente la **audiencia** para el prototipo. Si se conoce la audiencia a la que va dirigido será posible que pueda generar un **feedback** significativo.
+
+### Prototipos de baja fidelidad: papel ###
+
+
 
 
 

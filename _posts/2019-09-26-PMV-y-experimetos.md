@@ -66,7 +66,6 @@ Hechos con lápiz y papel. Te permitirán simular experiencias de una manera há
 
 - puede constituir una actividad divertida
 
-
 **Desventajas:**
 
 - la iteración rápida sobre la idea de base puede hacerlos lentos y tediosos
@@ -76,6 +75,26 @@ Hechos con lápiz y papel. Te permitirán simular experiencias de una manera há
 - el feedback se ve limitado a la estructura de alto nivel y al flujo de navegación del producto
 
 ### Prototipos de baja fidelidad: wireframes clicables ###
+
+Permite aumentar la fidelidad del prototipo. El tiempo empleado con los píxeles de las pantallas estará bien invertido porque así se ofrecerá una sensación más realista del flujo del trabajo. De esta manera, los participantes en las pruebas y los integrantes del equipo pueden usar los mecanismos de entrada habituales, lo que producirá un mejor feedback sobre la manera de trabajar. Herramientas: Balsamiq, Microsoft Visio, Fluid Designer...
+
+**Ventajas:**
+
+- revela los principales obstáculos para la finalización de las tareas básicas
+
+- permite obtener información sobre si los elementos principales son fáciles de encontra o no
+
+**Desventajas:**
+
+- la mayoría de la gente que interactúe con el prototipo sabrá inmediatamente que no se trata de un producto terminado
+
+- habrá que prestar atención especial al etiquetado y al texto
+
+### Prototipos de media y alta fidelidad ###
+
+
+
+
 
 
 

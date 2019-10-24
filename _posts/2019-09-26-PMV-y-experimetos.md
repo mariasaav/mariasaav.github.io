@@ -52,6 +52,31 @@ Una de las maneras más efectivas de crear los PMV es mediante un **prototipo de
 
 ### Prototipos de baja fidelidad: papel ###
 
+Hechos con lápiz y papel. Te permitirán simular experiencias de una manera hábil, rápida y divertida. Para trabajar con ellos no será necesariorealizar **ningún trabajo digital**. En su lugar se utilizarán técnicas como solapas que muestren y oculten los diferentes estados en una página o incluso creando una "ventana" que muestre la navegación mediante imágenes sucesivas, el equipo podrá hacerse a la idea del funcionamiento del producto. Así todos podrán captar inmediatamente los aspectos cubiertos por la experiencia y los que no. Los prototipos en papel también pueden mostrar fácilmente cómo el workflow comienza a encarnarse en los elementos de la interfaz que se vayan incorporando. Esta clase de prototipo es especialmente útil en intefaces táctiles que requieran que el usuario manipule elementos en la pantalla.
+
+**Ventajas:**
+
+- listos en una hora
+
+- fáciles de reorganizar
+
+- baratos
+
+- se pueden crear con materiales presentes en todas las oficinas
+
+- puede constituir una actividad divertida
+
+
+**Desventajas:**
+
+- la iteración rápida sobre la idea de base puede hacerlos lentos y tediosos
+
+- la simulación es artificial 
+
+- el feedback se ve limitado a la estructura de alto nivel y al flujo de navegación del producto
+
+### Prototipos de baja fidelidad: wireframes clicables ###
+
 
 
 

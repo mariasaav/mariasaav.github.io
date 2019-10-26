@@ -146,6 +146,7 @@ Deja que los stakeholders prueben lo que quieras y que digan lo que piensan. Los
 
 ### PMV que no tienen forma de prototipos ###
 
+Para muchos equipos, el enfoque habitual para desarrollar un nuevo PMV es crear un prototipo; así pueden comenzar lo antes posible el diseño y la codificación. En muchas ocasiones
 
 
 

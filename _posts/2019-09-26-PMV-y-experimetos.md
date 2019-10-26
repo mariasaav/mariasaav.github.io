@@ -92,6 +92,26 @@ Permite aumentar la fidelidad del prototipo. El tiempo empleado con los píxeles
 
 ### Prototipos de media y alta fidelidad ###
 
+Presentan un nivel de detalle significativamente mayor que los prototipos basados en wireframes. Estos se pueden utilizar para demostrar y probar diseños con más sustancia, con cierto nivel de interacción, con un diseño visual o un contenido similar de la experiencia de usuario final. La mayoría de estas herramientas permiten crear simulaciones perfectas, píxel a píxel, de la experiencia final. Puedes crear elementos de interfaz como formularios, campos, menús desplegables que funcionan y botones de formulario que imitan las acciones de envío. El coste de crear prototipos con este nivel de fidelidad se reduce significativamente mediante el uso de estas herramientas. Herramientas: Axure RP, Adobe Fireworks...
+
+**Ventajas**
+
+- prototipos realistas de alta calidad
+
+- pueden probarse los elementos de diseño y marca
+
+- pueden utilizarse como recursos tanto el flujo de trabajo como las interacciones de interfaz de usuario
+
+**Desventajas**
+
+- la interactividad sigue siendo más limitada que en los protipos desarrollados con la herramienta final
+
+- los usuarios no pueden interactuar con datos reales
+
+-estos prototipos pueden requerir de tiempo para su creación y mantenimiento
+
+
+
 
 
 

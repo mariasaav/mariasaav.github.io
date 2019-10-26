@@ -108,7 +108,43 @@ Presentan un nivel de detalle significativamente mayor que los prototipos basado
 
 - los usuarios no pueden interactuar con datos reales
 
--estos prototipos pueden requerir de tiempo para su creación y mantenimiento
+- estos prototipos pueden requerir de tiempo para su creación y mantenimiento
+
+**a) Prototipos codificados**
+
+Ofrecen el más alto nivel de fidelidad para las experiencias simuladas. Cualquiera que interactúe con ellos no podrá distinguirlos de la aplicación final. Utilizan el ratón, el teclado y la pantalla como dispositivos de entrada y crean el patrón de interacciones más natural posible para los evaluadores que se enfrentarán a él.
+
+**b) Prototipos codificados a mano y con datos dinámicos**
+
+Existen dos niveles de fidelidad para los prototipos codificados: los codificados a mano y los que cuentan con datos dinámicos. Los prototipos codificados a mano presentan el mismo aspecto y funcionan como el producto final pero no utilizan ni entrada, ni procesamiento, ni salida de datos reales. Solo se trata de simulaciones. Los prototipos con datos dinámicos conectan con datos relaes y procesan la entrada del usuario. A menudo, también se muestran a clientes reales. El análisis que se puede alcanzar con ellos del comportamiento y uso de la aplicación por parte de los clientes no puede obtenerse con los codificados a mano.
+
+**Ventajas**
+
+- se puede reutilizar su código en producción
+
+- ofrecen la simulación más realista posible
+
+- pueden generarse a partir de recursos existentes de código
+
+**Desventajas**
+
+- el equipo puede quedar empantanado debatiendo sobre los detalles del prototipo
+
+- es necesario dedicar bastante tiempo a crear código funcional que muestre la experiencia deseada
+
+- existe la tentación de perder tiempo perfeccionando el código antes de entregarlo a los clientes
+
+- la actualización y la iteración con ellos puede llevar mucho tiempo
+
+### ¿Qué debe aparecer en mi prototipo? ###
+
+No hay necesidad de incluir en el prototipo la experiencia completa del producto. Habrá que simular la parte más importante de esa experiencia, tanto para sus clientes como para el negocio detrás del producto. Céntrate en los flujos de trabajo principales que ilustran el PMV. Si consigues poner el foco en los flujos de trabajo principales del PMV, conseguirás que el equipo pueda ver una parte específica de la experiencia de usuario para que puedan valorar su validez y eficacia.
+
+#### Demos y previsualizaciones ####
+
+Deja que los stakeholders prueben lo que quieras y que digan lo que piensan. Los prototipos ayudan a mostrar a los directivos y dueños del producto cómo va el trabajo. Cuánto más expongas el PMV a las miradas ajenas, más conocimiento tendrás para validarlo. El siguiente paso será llevarlo a los clientes actuales y alos clientes potenciales. Deja que investiguen y que lo utilicen libremente y así podrás obtener todo el feedback posible sobre la experiencia de usuario.
+
+### PMV que no tienen forma de prototipos ###
 
 
 

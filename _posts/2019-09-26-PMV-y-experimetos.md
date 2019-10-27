@@ -146,8 +146,23 @@ Deja que los stakeholders prueben lo que quieras y que digan lo que piensan. Los
 
 ### PMV que no tienen forma de prototipos ###
 
-Para muchos equipos, el enfoque habitual para desarrollar un nuevo PMV es crear un prototipo; así pueden comenzar lo antes posible el diseño y la codificación. En muchas ocasiones
+Para muchos equipos, el enfoque habitual para desarrollar un nuevo PMV es crear un prototipo; así pueden comenzar lo antes posible el diseño y la codificación. En muchas ocasiones este paso no solo no es necesario sino que incluso puede llegar a ser perjudicial. La creación de prototipos es una herramienta valiosa, pero no es la única manera de avanzar en los proyectos. En ocasiones, es conveniente crear un PMV que no simule el producto sino que nos permita probar algo relacionado con él. Por ejemplo, si el equipo está tratando de determinar el valor de una nueva función o de un nuevo producto, a menudo tiene sentido **crear un PMV que no tenga forma de prototipo** para aprender de él si estamos haciéndolo bien.
 
+Cuando se crea un PMV de este tipo hay que repetirse constantemente que **siempre se puede hacer más simple**. Para planificarlo pregúntate lo siguiente:
+
+- ¿qué trato de aprender?
+
+- ¿cuáles son las principales variables de entrada del mercado que necesito para validar mi hipótesis?
+
+- ¿cuál es la manera más rápida que tengo de obtener esa información?
+
+### Tipos de PMV que no tienen forma de prototipo ###
+
+- **Correo electrónico**: los índices de paertura del correo, los click-throughs y los de finalización de la tarea nos pueden ofrecer una imagen clara de si los clientes valoran la idea o no
+
+- **Google Ad Words**: un experimento muy barato es comprar anuncios en Google Ad Words enfocados al segmento de mercado relevante para el negocio. Así, al monitorizar las búsquedas de la gente, obtendremos rápidamente feedback sobre el tipo de lenguaje que le interesa a nuestra audiencia.
+
+Esta es la esencia del enfoque de **Lean UX**: diseña solo lo necesario; entrégalo con rapidez; ponte en contacto con un número suficiente de clientes para que el feedback sea rápido.
 
 
 

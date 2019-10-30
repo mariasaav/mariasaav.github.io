@@ -13,4 +13,12 @@ Debemos trabajar con una metodología que incorpore **la investigación de forma
 
 La metodología que se va a explicar aquí es una metodología de guerrilla que simplifica mucho el proceso y lo hace independiente de la herramienta que usemos, sean entrevistas, focus groups o reuniones con stakeholders.
 
-Este proceso nos permite pensar de la investigación 
+Este proceso nos permite pensar de la investigación no sólo como un conjunto de metodologías enfocado a la introspección, el análisis y las prácticas de colaboración, sino también con una mirada en articular y definir el área de enfoque y el alcance de la propia investigación, a medida que vamos aprendiendo.
+
+Por eso lo denominan **Espiral de aprendizaje de la investigación** y lo dividen en cinco pasos:
+
+1. **Identificar objetivos**: identificar cuáles son las cuestiones que i ntentamos reponder con la investigación. Pregúntate: Quién, qué, cuándo, dónde, por qué y cómo. ¿Qué necesitamos saber en este punto del proceso del diseño? ¿Qué huecos de conocimiento necesitamos llenar? Estos objetivos nos ayudan a definir cuál es la base demográfica de usuarios, qué actividades realizarán durante el uso de nuestro servicio o producto, cuándo se realizan estas actividades, donde se llevarán a cabo y bajo el cual los estados emocionales o racionales (¿por qué?).
+
+2. **Trabajar con hipótesis**: es lo que creemos que sabemos. ¿Cuáles son las asunciones de nuestro equipo? ¿Qué pensamos que entendemos sobre nuestros usuarios, sus conductas y nuestras potenciales soluciones a sus necesidades?
+
+3. **Aplicar metodologías**: 

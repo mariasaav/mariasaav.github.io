@@ -25,4 +25,17 @@ Por eso lo denominan **Espiral de aprendizaje de la investigación** y lo divide
 
 4. **Dirigir el proceso**: recolectaremos los datos a través de los métodos que hemos elegido. Los datos explican qué y cuándo los usuarios hacen cosas, pero no por qué. El contexto, de hecho, es el rey. Debemos integrar información que nos ayude a proporcionar comprensión contextual, para la toma de decisiones de diseño más informadas.
 
-5. **Completar la síntesis**: responder a las preguntas de nuestra investigación
+5. **Completar la síntesis**: responder a las preguntas de nuestra investigación y probar o desechar nuestras hipótesis. Darle sentido a los datos que hemos recolectado para descubrir qué oportunidades e implicaciones existen para nuestro diseño.
+
+Es una metodología simple pero escalable. Es **un proceso que da importancia a la planificación y la formulación de objetivos de investigación** y los integra como parte de la investigación misma. Es un proceso en bucle que no tiene por qué ser largo y costoso ni ejecutarse una sola vez. Es espiral y tiene potencial de ser un proceso cíclico e iterativo y se puede aplicar según sea necesario en las diferentes etapas de un proceso de diseño y en contextos diferentes.
+
+Permite hacer investigación en pequeños proyectos que tengan un presupuesto limitado y en otros proyectos de mayor envergadura donde haya que profundizar más en la investigación y, por tanto, debamos aplicar varios métodos diferentes hasta que tengamos todos los datos necesarios para avanzar con el diseño.
+
+# Tipos de investigación de usuarios enfocadas a diseño de UX #
+
+Muchas veces se olvida el trabajo principal del diseñador, que es resolver los problemas del cliente mediante una propuesta de solución basada en el diseño centrado en el usuario lo más alineada posibe con los objetivos del proyecto y del negocio.
+
+
+Existen cinco tipos de investigación:
+
+1. **Primaria**: la investigación primaria es la que

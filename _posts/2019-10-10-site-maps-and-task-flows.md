@@ -2,6 +2,7 @@
 title: Site Maps y Task Flows
 date: 2019-10-10
 toc: true
+toc_label: En este post
 ---
 
 Los **site maps** ayudan a identificar la estructura de una página Web o de una aplicación. En ellos se puede distinguir la jerarquía y las conexiones que permiten a la audiencia entender dónde los usuarios pueden localizar el contenido.  En la mayoría de los casos, los site maps se utilizarán para enseñar a los compañeros de grupo y a los clientes cómo va a estar organizado el contenido de una página web.

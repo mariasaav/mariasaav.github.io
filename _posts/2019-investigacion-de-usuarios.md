@@ -70,4 +70,6 @@ Por su lado, Agile se ha convertido en la estrategia más común en la industria
 
 ## No hay UX sin el usuario ##
 
+En el centro de UX se encuentra la investigación de usuarios, la cual consiste en un conjunto de técnicas para comprender los comportamientos, necesidades y motivaciones de los usuarios a través de la observación y la medición. 
 
+Existen actividades específicas de investigación de usuarios que pueden ayudarte en cada etapa del proceso de desarrollo del producto: entrevistas, pruebas de usabilidad, investigación contextual; encuestas. El desafío es identificar cuál es el adecuado para el problema que deseas resolver y asignar tiempo suficiente para ejecutarlo y obtener valor de él. **La clave reside en probar poco y a menudo**.

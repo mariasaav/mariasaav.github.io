@@ -56,5 +56,9 @@ Sirve también para conocer los modelos mentales de los usuarios y lo que se esp
 
 Normalmente crea la posibilidad de una base, por lo que es de gran importancia conocer las necesidades, lo que buscan y los objetivos de los usuarios de antemano, para lo que es importante haber hecho una buena investigación primaria y secundaria. 
 
-La investigación generativa 
+La investigación generativa nos permite obsevar los comportamientos de los usuarios en un entorno "natural" que puede ser entendido mejor mediante la etnografía, entrevistas contextuales, grupos de enfoque y recopilación de datos.
+
+### ¿En qué se diferencia la investigación de mercadi de la investigación de usuarios? ###
+
+Una investigación de mercado suele ser una investigación más cuantitativa, con datos más científicos, mientras que una investigación de usuarios suele ser más **cualitativa** y, por tanto, más subjetiva y más basada en la intuición además de en datos cuantitativos como el tiempo medio que los usuarios tardan en realizar una tarea o el porcentaje de ellos que la realizan correctamente.
 

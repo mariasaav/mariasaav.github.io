@@ -44,5 +44,17 @@ Es importante saber qué se quiere investigar antes de salir a buscar a las pers
 
 2. **Secundaria**: es la que se lleva a cabo mediante el uso de fuentes como libros, estudios, casos de uso de diseño, soluciones similares en otros proyectos para usar los hallazgos y posibles mejoras que hemos extraído de la investigación primaria para conformar una **propuesta de solución**.
 
-A veces se hace investigación secundaria sin hacer investigación primaria pero esto es poco recomendable aunque bastante habitual. 
+A veces se hace investigación secundaria sin hacer investigación primaria pero esto es poco recomendable aunque bastante habitual. Si no hay presupuesto o tiempo para investigación primaria es mejor hacer otro tipo de investigación, pero hacer investigación secundaria sin tener datos reales es muy poco recomendable dadas las consecuencias que ello puede tener en el producto digital final y la consiguiente pérdida de dinero y tiempo que puede acarrear.
+
+3. **Evaluativa**: sirve para acercarse a los problemas, necesidades y deseos de los usuarios reales o posibles usuarios del producto digital. La manera más sencilla de hacer es mediante un **test *Think Aloud***, donde al usuario se le plantee una serie de tareas y vaya comentando sus problemas, además de con una entrevista posterior donde nos plantee problemas que ve, posibles soluciones y también las dudas que se le han planteado durante la realización de las tareas.
+
+Sirve también para conocer los modelos mentales de los usuarios y lo que se esperan encontrar. Hay dos tipos: evaluación **sumativa** y evaluación **formativa**. La sumativa se encarga de vigilar las salidas (costes, cambios en el proceso, efectos...) de la investigación, y la evaluación formativa se encarga de mejorar el producto o a la persona que lo usa y se encarga también de vigilar la implementación, las necesidades y el potencial del producto para posteriores mejoras.
+
+4. **Exploratoria**: se desarrolla para investigar algo sobre lo que poco o nada se conoce. Sirve para dirigir el rumbo de un producto que se dirige a un territorio poco explorado o inexplorado y poder tener una base sobre la que pivotar la estrategia. Normalmente la investigación exploratoria se usa para generar hipótesis formales y generar problemas más precisos de investigación posteriormente.
+
+5. **Generativa**: consiste en elegir qué problemas vamos a resolver y acuáles vamos a dar soluciones a partir de los hallazgos de la investigación. Estas soluciones son nuevas para problemas ya existentes.
+
+Normalmente crea la posibilidad de una base, por lo que es de gran importancia conocer las necesidades, lo que buscan y los objetivos de los usuarios de antemano, para lo que es importante haber hecho una buena investigación primaria y secundaria. 
+
+La investigación generativa 
 

@@ -39,8 +39,10 @@ Muchas veces se olvida el trabajo principal del diseñador, que es resolver los 
 Existen cinco tipos de investigación:
 
 1. **Primaria**: la investigación primaria es la que se hace para entender los entresijos de un proyecto, conocer a los usuarios y stakeholders y averiguar las necesidades y expectativas de ambos, además de hacernos una idea del alcance del proyecto. La investigación primaria es la base sobre la que construimos los proyectos y muchas veces depende de ella la calidad de la solución de diseño final o la durabilidad de un proyecto una vez acabado.
+
 Es importante saber qué se quiere investigar antes de salir a buscar a las personas para investigar. La planificación de las entrevistas es algo de gran importancia en un proceso de investigación primaria, y tener varias personas que nos den diferentes puntos de vista incluso del mismo asunto nos puede ayudar a la hora de entender los problemas del producto digital o de la metodología usada para elaborarlo, lo que nos puede resultar de gran ayuda para proponer soluciones al cliente.
 
 2. **Secundaria**: es la que se lleva a cabo mediante el uso de fuentes como libros, estudios, casos de uso de diseño, soluciones similares en otros proyectos para usar los hallazgos y posibles mejoras que hemos extraído de la investigación primaria para conformar una **propuesta de solución**.
+
 A veces se hace investigación secundaria sin hacer investigación primaria pero esto es poco recomendable aunque bastante habitual. 
 

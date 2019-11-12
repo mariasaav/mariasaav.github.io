@@ -62,3 +62,12 @@ La investigación generativa nos permite obsevar los comportamientos de los usua
 
 Una investigación de mercado suele ser una investigación más cuantitativa, con datos más científicos, mientras que una investigación de usuarios suele ser más **cualitativa** y, por tanto, más subjetiva y más basada en la intuición además de en datos cuantitativos como el tiempo medio que los usuarios tardan en realizar una tarea o el porcentaje de ellos que la realizan correctamente.
 
+# Cómo hacer Investigación de Usuarios en equipos ágiles #
+
+La clave para prosperar en el entorno competitivo de los productos digitales es centrarse en la Experiencia del Usuario (UX). La gente simplemente no va a pagar dinero por un producto que no se adapte a sus necesidades.
+
+Por su lado, Agile se ha convertido en la estrategia más común en la industria del software. Los equipos ágiles pueden adaptarse rápidamente al cambio en las preferencias del usuario. Y la Investigación de Usuarios es la herramienta para detectar ese pulso de cambio.
+
+## No hay UX sin el usuario ##
+
+
